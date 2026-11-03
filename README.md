@@ -36,7 +36,8 @@ This project demonstrates the design of a small business network for a fictional
 
 ## Network Diagram
 
-![Network Diagram](network-diagram.png)
+![Helping Hands Network Diagram](network-diagram-v2.png)
+
 
 ## Network Architecture
 
@@ -71,4 +72,15 @@ Planned enhancements include:
 - Inter-VLAN routing
 - Access Control Lists (ACLs)
 - Firewall rule documentation
-- Network monitoring strategy  
+- Network monitoring strategy
+
+## Project Updates
+
+### Version 2 Enhancements
+
+- Added DHCP Server
+- Added DHCP Scope Planning
+- Added Default Gateways
+- Added VLAN Trunk Link
+- Added Guest Wi-Fi Isolation Controls
+- Enhanced Security Documentation

@@ -38,6 +38,10 @@ This project demonstrates the design of a small business network for a fictional
 
 ![Network Diagram](network-diagram.png)
 
+## Network Architecture
+
+Internet traffic enters through a FortiGate 60F firewall and connects to a Cisco Catalyst 9200 core switch. The switch provides connectivity to staff workstations, wireless access points, network printers, and VoIP phones. Network traffic is segmented using VLANs to improve security and network performance.
+
 ## Skills Demonstrated
 
 - Network Design
@@ -46,10 +50,6 @@ This project demonstrates the design of a small business network for a fictional
 - TCP/IP Concepts
 - Wireless Networking
 - Network Documentation
-
-## Network Diagram
-
-![Helping Hands Network Diagram](network-diagram.png)
 
 
 ## Lessons Learned
@@ -61,3 +61,14 @@ While creating this project, I gained experience with:
 - Allocating private IPv4 address space
 - Documenting network infrastructure
 - Using GitHub for technical portfolio projects
+
+## Future Improvements
+
+Planned enhancements include:
+
+- DHCP scope design
+- Switch port assignments
+- Inter-VLAN routing
+- Access Control Lists (ACLs)
+- Firewall rule documentation
+- Network monitoring strategy  

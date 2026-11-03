@@ -46,3 +46,18 @@ This project demonstrates the design of a small business network for a fictional
 - TCP/IP Concepts
 - Wireless Networking
 - Network Documentation
+
+## Network Diagram
+
+![Helping Hands Network Diagram](network-diagram.png)
+
+
+## Lessons Learned
+
+While creating this project, I gained experience with:
+
+- Designing a small business network
+- Creating VLAN-based network segmentation
+- Allocating private IPv4 address space
+- Documenting network infrastructure
+- Using GitHub for technical portfolio projects

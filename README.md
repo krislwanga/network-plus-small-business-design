@@ -84,3 +84,12 @@ Planned enhancements include:
 - Added VLAN Trunk Link
 - Added Guest Wi-Fi Isolation Controls
 - Enhanced Security Documentation
+
+### Version 3 Enhancements
+
+- Added Layer 3 switching
+- Added Inter-VLAN routing design
+- Added Switch Virtual Interfaces (SVIs)
+- Added switch port assignments
+- Added traffic flow documentation
+

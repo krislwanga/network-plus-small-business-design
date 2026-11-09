@@ -36,7 +36,7 @@ This project demonstrates the design of a small business network for a fictional
 
 ## Network Diagram
 
-!<img width="4032" height="549" alt="image" src="https://github.com/user-attachments/assets/ec751ae7-ede0-4a4c-8d1d-685a718a4f0e" />
+!network-diagram-v2.png
 
 
 

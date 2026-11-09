@@ -36,8 +36,8 @@ This project demonstrates the design of a small business network for a fictional
 
 ## Network Diagram
 
-https://github.com/krislwanga/network-plus-small-business-design/blob/a55877b7005d50d63d4c4447748308251c430fb9/network-diagram-v2.png
 
+<img width="1266" height="1231" alt="network-diagram-v3" src="https://github.com/user-attachments/assets/79de3521-5e6b-4112-bf8d-544a075830f2" />
 
 
 ## Network Architecture
